@@ -1,0 +1,84 @@
+D:\Learn\Lap tring C#\Exercise C#\FlapyBird\FlapyBird\bin\Debug\FlapyBird.exe.config
+D:\Learn\Lap tring C#\Exercise C#\FlapyBird\FlapyBird\bin\Debug\FlapyBird.exe
+D:\Learn\Lap tring C#\Exercise C#\FlapyBird\FlapyBird\bin\Debug\FlapyBird.pdb
+ Text
+Showing the top three matches
+Last indexed on Jul 4, 2018
+@jamalzare
+jamalzare/iOS-Easy-Flappy-Bird
+Easy Flapy Bird.xcodeproj/xcuserdata/jamal.xcuserdatad/xcschemes/Flappy Felipe TV.xcscheme
+               BlueprintIdentifier = "049C553D1C2A0FBC004943C2"
+               BuildableName = "Easy Flapy Bird.app"
+               BlueprintName = "Easy Flapy Bird TV"
+               ReferencedContainer = "container:Easy Flapy Bird.xcodeproj">
+            </BuildableReference>
+Showing the top six matches
+Last indexed on Jul 8, 2018
+@jamalzare
+jamalzare/iOS-Easy-Flappy-Bird
+Easy Flapy Bird.xcodeproj/xcuserdata/jamal.xcuserdatad/xcschemes/Flappy Felipe.xcscheme
+               BlueprintIdentifier = "042BB4521BE1181D0036B423"
+               BuildableName = "Easy Flapy Bird.app"
+               BlueprintName = "Easy Flapy Bird"
+               ReferencedContainer = "container:Easy Flapy Bird.xcodeproj">
+            </BuildableReference>
+Showing the top six matches
+Last indexed on Jul 8, 2018
+@cvprogrammer
+cvprogrammer/My-Flappy-Bird
+Flapy bird Bonako.xcodeproj/xcuserdata/Robbie.xcuserdatad/xcschemes/Flapy bird Bonako.xcscheme
+               BlueprintIdentifier = "DC3D8A781B53E133004688A7"
+               BuildableName = "Flapy bird Bonako.app"
+               BlueprintName = "Flapy bird Bonako"
+               ReferencedContainer = "container:Flapy bird Bonako.xcodeproj">
+            </BuildableReference>
+Showing the top six matches
+Last indexed on Jul 1, 2018
+@cvprogrammer
+cvprogrammer/My-Flappy-Bird
+Flapy bird Bonako.xcodeproj/project.pbxproj
+		DC3D8A991B53E134004688A7 /* Flapy_bird_BonakoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC3D8A981B53E134004688A7 /* Flapy_bird_BonakoTests.swift */; };
+		DC3D8AA31B53E5A2004688A7 /* ImagesBird in Resources */ = {isa = PBXBuildFile; fileRef = DC3D8AA21B53E5A2004688A7 /* ImagesBird */; };
+Showing the top two matches
+Last indexed on Jul 1, 2018
+@doanhtdpl
+doanhtdpl/flappybird-cocos2d-x
+flappybird-cocos2d-x/proj.win32/Debug.win32/cl.command.1.tlog
+﻿^R:\HOCTAP\HOCKY6\DESIGNGAME\COCOS2D-X\COCOS2D-X-2.2.2\PROJECTS\FLAPYBIRD\CLASSES\APPDELEGATE.CPP
+/c /I"R:\HocTap\HocKy6\DesignGame\cocos2D-x\cocos2d-x-2.2.2\projects\FlapyBird\proj.win32\..\..\..\cocos2dx" /I"R:\HocTap\HocKy6\DesignGame\cocos2D-x\cocos2d-x-2.2.2\projects\FlapyBird\proj.win32\..\..\..\cocos2dx\include" /I"R:\HocTap\HocKy6\DesignGame\cocos2D-x\cocos2d-x-2.2.2\projects\FlapyBird\proj.win32\..\..\..\cocos2dx\kazmath\include" /I"R:\HocTap\HocKy6\DesignGame\cocos2D-x\cocos2d-x-2.2.2\projects\FlapyBird\proj.win32\..\..\..\cocos2dx\platform\win32" /I"R:\HocTap\HocKy6\DesignGame\cocos2D-x\cocos2d-x-2.2.2\projects\FlapyBird\proj.win32\..\..\..\cocos2dx\platform\third_party\win32" /I"R:\HocTap\HocKy6\DesignGame\cocos2D-x\cocos2d-x-2.2.2\projects\FlapyBird\proj.win32\..\..\..\cocos2dx\platform\third_party\win32\OGLES" /I"R:\HocTap\HocKy6\DesignGame\cocos2D-x\cocos2d-x-2.2.2\projects\FlapyBird\proj.win32\..\..\..\external" /I"R:\HocTap\HocKy6\DesignGame\cocos2D-x\cocos2d-x-2.2.2\projects\FlapyBird\proj.win32\..\..\..\external\chipmunk\include\chipmunk" /I"R:\HocTap\HocKy6\DesignGame\cocos2D-x\cocos2d-x-2.2.2\projects\FlapyBird\proj.win32\..\..\..\CocosDenshion\include" /I"R:\HocTap\HocKy6\DesignGame\cocos2D-x\cocos2d-x-2.2.2\projects\FlapyBird\proj.win32\..\..\..\extensions" /I..\Classes /I.. /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USE_MATH_DEFINES /D GL_GLEXT_PROTOTYPES /D CC_ENABLE_CHIPMUNK_INTEGRATION=1 /D COCOS2D_DEBUG=1 /D _CRT_SECURE_NO_WARNINGS /D _SCL_SECURE_NO_WARNINGS /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"DEBUG.WIN32\\" /Fd"DEBUG.WIN32\VC110.PDB" /Gd /TP /wd4267 /wd4251 /wd4244 /analyze- R:\HOCTAP\HOCKY6\DESIGNGAME\COCOS2D-X\COCOS2D-X-2.2.2\PROJECTS\FLAPYBIRD\CLASSES\APPDELEGATE.CPP
+Showing the top match
+Last indexed on Jun 30, 2018
+@MoreNiceJay
+MoreNiceJay/FlapyBird
+FlapyBird.xcodeproj/project.pbxproj
+		036C13D01C343A1900045CA7 /* FlapyBirdTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 036C13CF1C343A1900045CA7 /* FlapyBirdTests.swift */; };
+		036C13DB1C343A1900045CA7 /* FlapyBirdUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 036C13DA1C343A1900045CA7 /* FlapyBirdUITests.swift */; };
+Showing the top two matches
+Last indexed on Jul 2, 2018
+@yosukeaga
+yosukeaga/FlappyBird
+FlapyBird.xcodeproj/xcuserdata/yosuke0607.xcuserdatad/xcschemes/FlapyBird.xcscheme
+               BlueprintIdentifier = "F47B226C1C8FEDFA00483467"
+               BuildableName = "FlapyBird.app"
+               BlueprintName = "FlapyBird"
+               ReferencedContainer = "container:FlapyBird.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+Showing the top two matches
+Last indexed on Jul 2, 2018
+@doanhtdpl
+doanhtdpl/flappybird-cocos2d-x
+flappybird-cocos2d-x/proj.win32/Debug.win32/HelloCpp.log
+     1>Project "R:\HocTap\HocKy6\DesignGame\cocos2D-x\cocos2d-x-2.2.2\projects\FlapyBird\proj.win32\HelloCpp.vcxproj" on node 2 (Build target(s)).
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"R:\HocTap\HocKy6\DesignGame\cocos2D-x\cocos2d-x-2.2.2\projects\FlapyBird\proj.win32\..\..\..\cocos2dx" /I"R:\HocTap\HocKy6\DesignGame\cocos2D-x\cocos2d-x-2.2.2\projects\FlapyBird\proj.win32\..\..\..\cocos2dx\include" /I"R:\HocTap\HocKy6\DesignGame\cocos2D-x\cocos2d-x-2.2.2\projects\FlapyBird\proj.win32\..\..\..\cocos2dx\kazmath\include" /I"R:\HocTap\HocKy6\DesignGame\cocos2D-x\cocos2d-x-2.2.2\projects\FlapyBird\proj.win32\..\..\..\cocos2dx\platform\win32" /I"R:\HocTap\HocKy6\DesignGame\cocos2D-x\cocos2d-x-2.2.2\projects\FlapyBird\proj.win32\..\..\..\cocos2dx\platform\third_party\win32" /I"R:\HocTap\HocKy6\DesignGame\cocos2D-x\cocos2d-x-2.2.2\projects\FlapyBird\proj.win32\..\..\..\cocos2dx\platform\third_party\win32\OGLES" /I"R:\HocTap\HocKy6\DesignGame\cocos2D-x\cocos2d-x-2.2.2\projects\FlapyBird\proj.win32\..\..\..\external" /I"R:\HocTap\HocKy6\DesignGame\cocos2D-x\cocos2d-x-2.2.2\projects\FlapyBird\proj.win32\..\..\..\external\chipmunk\include\chipmunk" /I"R:\HocTap\HocKy6\DesignGame\cocos2D-x\cocos2d-x-2.2.2\projects\FlapyBird\proj.win32\..\..\..\CocosDenshion\include" /I"R:\HocTap\HocKy6\DesignGame\cocos2D-x\cocos2d-x-2.2.2\projects\FlapyBird\proj.win32\..\..\..\extensions" /I..\Classes /I.. /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USE_MATH_DEFINES /D GL_GLEXT_PROTOTYPES /D CC_ENABLE_CHIPMUNK_INTEGRATION=1 /D COCOS2D_DEBUG=1 /D _CRT_SECURE_NO_WARNINGS /D _SCL_SECURE_NO_WARNINGS /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug.win32\\" /Fd"Debug.win32\vc110.pdb" /Gd /TP /wd4267 /wd4251 /wd4244 /analyze- /errorReport:prompt ..\Classes\Bird.cpp
+Showing the top two matches
+Last indexed on Jun 30, 2018
+@MoreNiceJay
+MoreNiceJay/FlapyBird
+FlapyBird.xcodeproj/xcuserdata/janghyup.xcuserdatad/xcschemes/FlapyBird.xcscheme
+               BlueprintIdentifier = "036C13B21C343A1900045CA7"
+               BuildableName = "FlapyBird.app"
+               BlueprintName = "FlapyBird"
+               ReferencedContainer = "container:FlapyBird.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
